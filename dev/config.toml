@@ -91,7 +91,7 @@ author = "Luciole"
 # currency
 currency = "$"
 # contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/maypkrkg" # contact form works with https://formspree.io
 # snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 
@@ -103,8 +103,8 @@ preloader = "" # use .png , .svg or .gif format
 # Subscription
 [params.subscription]
 # mailchimp subsciption
-mailchimp_form_action = "https://luciolelamps.us17.list-manage.com/subscribe/post?u=bbad6ed8a01b402cc3211035b&amp;id=26c495621c" # replace this url with yours
-mailchimp_form_name = "b_bbad6ed8a01b402cc3211035b_26c495621c" # replace this code with yours
+mailchimp_form_action = "https://luciolelamps.us17.list-manage.com/subscribe/post?u=bbad6ed8a01b402cc3211035b&amp;id=26c495621c" 
+mailchimp_form_name = "b_bbad6ed8a01b402cc3211035b_26c495621c"
 
 
 ################################### English language #####################################
