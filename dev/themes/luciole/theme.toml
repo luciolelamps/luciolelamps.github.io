@@ -1,0 +1,17 @@
+# theme.toml for the Vex Hugo theme
+
+name = "Luciole Lamps"
+license = "CC-BY-3.0"
+description = "Luciole Lamps - Smart luminous wooden lamps"
+homepage = "http://luciolelamps.com/"
+tags = ["lamps", "wood", "3dprint", "design", "innovation", "generative"]
+features = ["onepage", "product"]
+min_version = "0.62.2"
+
+[author]
+  name = "Luciole"
+  homepage = "http://luciolelamps.com/"
+
+[original]
+  name = "Luciole"
+  homepage = "http://luciolelamps.com/"
