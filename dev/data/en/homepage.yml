@@ -28,21 +28,17 @@ about_product:
   items:
     # about product item loop
     - image : "images/tissu1.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
-      button:
+      title : "Sustainable Materials"
+      content : "Shape, form, function, texture and colour have all been carefully arranged  together using a compostable material."
+      button: 
         enable : false
         label : "Check Features"
         link : "#"
         
     # about product item loop
     - image : "images/jupe1.png"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+      title : "Smart Lighting IoT"
+      content : "We offer customized solutions with smart  lighting and control products by combining high quality with vertical know-how in the world of Lighting and 3d printing."
       button:
         enable : false
         label : "Check Features"
@@ -56,7 +52,7 @@ products:
 ############################# promo ############################
 promo:
   enable : true
-  image : "images/watch.png"
+  image : "images/blackbg.png"
   title : "Designed by professionals, distributed manufacture"
   content : "By reducing the need to produce in a traditional way, we can respond to the future on demand by using sustainable and renewable resources and 4.0 advanced manufacture."
 
