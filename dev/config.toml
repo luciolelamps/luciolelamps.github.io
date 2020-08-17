@@ -49,10 +49,10 @@ URL = "products"
 weight = 2
 
 # main menu
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 3
+# [[menu.main]]
+# name = "Blog"
+# URL = "blog"
+# weight = 3
 
 [[menu.main]]
 name = "Contact"
@@ -60,10 +60,10 @@ URL = "contact"
 weight = 4
 
 # footer menu
-[[menu.footer]]
-name = "Blog"
-URL = "blog"
-weight = 1
+# [[menu.footer]]
+# name = "Blog"
+# URL = "blog"
+# weight = 1
 
 [[menu.footer]]
 name = "Contact"
@@ -114,7 +114,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-# copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+# copyright = "Theme designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 
 
 ################################### French language #####################################

@@ -1,5 +1,5 @@
 ---
 title: "Our Latest Post"
-description : "Latest Post - Luciole Lamps"
+description : "this is a meta description"
 draft: false
 ---
