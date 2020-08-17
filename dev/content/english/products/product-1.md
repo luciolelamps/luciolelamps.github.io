@@ -10,7 +10,7 @@ description : "this is meta description"
 price: "120.00"
 
 # product variation
-colors : ["Wood"]
+colors : ["Wood filament"]
 sizes : ["small","medium","large"]
 
 draft: false
