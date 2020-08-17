@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description : "this is a meta description"
+description : "Contact - Luciole Lamps"
 
 office:
   title : "Central Office"
