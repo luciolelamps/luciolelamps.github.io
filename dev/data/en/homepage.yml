@@ -15,7 +15,7 @@ shapes that generate new remote controlled lighting
 effects to finally not only propose different shapes
 but also new interactions with these 3d printed
 wooden smart light objects."
-  image : "images/spore1.png"
+  image : "images/tissu1.png"
   button:
    enable : true
    label : "Browse All Products"
@@ -27,7 +27,7 @@ about_product:
   title : "Why Choose a 3D Printed wood lamp"
   items:
     # about product item loop
-    - image : "images/tissu1.png"
+    - image : "images/spore1.png"
       title : "Sustainable Materials"
       content : "Shape, form, function, texture and colour have all been carefully arranged  together using a compostable material."
       button: 
